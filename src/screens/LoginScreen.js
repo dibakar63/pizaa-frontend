@@ -49,7 +49,9 @@ const LoginScreen = () => {
                 
                 <button className='btn mt-3 mb-3' onClick={handleSubmit}>Login</button><br/>
 
-                <a style={{color:'red'}} href='/register'>Click Here To Register </a>
+                <a style={{color:'red',marginBottom:"7px"}} href='/register'>Click Here To Register </a>
+            <p>Email:dibakardey63@gmail.com</p>
+                <p>Password:1234</p>
             </div>
         </div>
       </div>
